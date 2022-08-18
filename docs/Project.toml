@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+ZeroHFTrader = "8474b145-0609-46b5-bee3-d7a6dbded082"
